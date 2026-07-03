@@ -30,7 +30,7 @@ to swap the SDK for raw REST calls later without touching the CLI.
 
 ### 1. Clone and install dependencies
 ```bash
-git clone
+git clone 'https://github.com/scryptwiz/trading_bot'
 cd trading_bot
 python3 -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
